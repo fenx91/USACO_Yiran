@@ -10,7 +10,6 @@
 #include <algorithm>
 
 using namespace std;
-
 int N;
 int s[160 * 160];
 
